@@ -1,0 +1,5 @@
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\bin\Release\net6.0\publish\ATM_Console_App.exe
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\bin\Release\net6.0\publish\ATM_Console_App.dll
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\bin\Release\net6.0\publish\ATM_Console_App.deps.json
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\bin\Release\net6.0\publish\ATM_Console_App.runtimeconfig.json
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\bin\Release\net6.0\publish\ATM_Console_App.pdb

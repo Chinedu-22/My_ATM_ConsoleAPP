@@ -1,0 +1,15 @@
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\bin\Release\net6.0\ATM_Console_App.exe
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\bin\Release\net6.0\ATM_Console_App.deps.json
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\bin\Release\net6.0\ATM_Console_App.runtimeconfig.json
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\bin\Release\net6.0\ATM_Console_App.dll
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\bin\Release\net6.0\ATM_Console_App.pdb
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\obj\Release\net6.0\ATM_Console_App.csproj.AssemblyReference.cache
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\obj\Release\net6.0\ATM_Console_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\obj\Release\net6.0\ATM_Console_App.AssemblyInfoInputs.cache
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\obj\Release\net6.0\ATM_Console_App.AssemblyInfo.cs
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\obj\Release\net6.0\ATM_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\obj\Release\net6.0\ATM_Console_App.dll
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\obj\Release\net6.0\refint\ATM_Console_App.dll
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\obj\Release\net6.0\ATM_Console_App.pdb
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\obj\Release\net6.0\ATM_Console_App.genruntimeconfig.cache
+C:\Users\Anene\OneDrive\Documents\My_Webapps\ATM_Console_App\ATM_Console_App\obj\Release\net6.0\ref\ATM_Console_App.dll
